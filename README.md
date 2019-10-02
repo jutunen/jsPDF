@@ -1,4 +1,4 @@
-#jsPDF table_2
+# jsPDF table_2
 
 **Alternative fromHTML table renderer**
 
@@ -56,8 +56,6 @@ purpose: Sets the basis for table scaling. Table is scaled according to font siz
 name: table_2_fontSize  
 values: integer  
 purpose: Sets the table font size.  
-
-**License**
 
 ## Credits
 - Big thanks to Daniel Dotsenko from [Willow Systems Corporation](http://willow-systems.com) for making huge contributions to the codebase.
